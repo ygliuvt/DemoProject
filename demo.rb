@@ -1,3 +1,6 @@
 puts "Hello World!"
 puts "Hello World from development!"
 puts "a development fix."
+puts "added first feature part 1."
+puts "added first feature part 2."
+puts "added first feature part 3."
